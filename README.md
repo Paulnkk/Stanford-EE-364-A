@@ -7,4 +7,4 @@ Convex optimization problems solved by cvxpy
 
 -> allocating_memory.py is solving a multicore processor problem with n cores and m memory blocks.
 
--> 
+-> recover_ts.py the corrupted time series y^tilde but not the true one y. The goal is to find an estimate y^hat of the true time series y, which we do by minimizing a convex loss function.
