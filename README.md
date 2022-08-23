@@ -12,5 +12,7 @@ Backtesting framework for solving several convex optimization problems. These pr
 
 -> sparse_matrix.py estimating a sparse covariance matrix based on normally distributed datapoints (stanadrized) by minimizing negative log-likelihood
 
+-> worst_case_port_yield.py generates yield curves for worst case and nominal case bond portfolios (worst_case_bond_price_data data required for execution)
+
 
 ------------> formulation of the the Optimization problems (Latex) will be added to the repo in future 
