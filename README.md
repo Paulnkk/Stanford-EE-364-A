@@ -13,4 +13,4 @@ Backtesting framework for solving several convex optimization problems. These pr
 -> sparse_matrix.py estimating a sparse covariance matrix based on normally distributed datapoints (stanadrized) by minimizing negative log-likelihood
 
 
-------------> formulation of the the Optimization problems will be added to the repo in future 
+------------> formulation of the the Optimization problems (Latex) will be added to the repo in future 
