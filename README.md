@@ -10,7 +10,7 @@ Backtesting framework for solving several convex optimization problems. These pr
 
 -> recover_ts.py the corrupted time series y^tilde but not the true one y. The goal is to find an estimate y^hat of the true time series y, which we do by minimizing a convex loss function.
 
--> sparse_matrix.py estimating a sparse covariance matrix based on normally distributed datapoints (stanadrized) by minimizing negative log-likelihood
+-> sparse_matrix.py estimating a sparse covariance matrix based on normally distributed datapoints (stanadrized) by minimizing negative log-likelihood.
 
 -> worst_case_port_yield.py generates yield curves for worst case and nominal case bond portfolio optimization (worst_case_bond_price_data data required for execution), under the assumption that the set which consists of all yield curves is convex.
 
