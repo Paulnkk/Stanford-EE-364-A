@@ -14,5 +14,7 @@ Backtesting framework for solving several convex optimization problems. These pr
 
 -> worst_case_port_yield.py generates yield curves for worst case and nominal case bond portfolio optimization (worst_case_bond_price_data data required for execution), under the assumption that the set which consists of all yield curves is convex.
 
+-> bounding_port_risk.py max risk under constraints for the covariance matrix and create worst case portfolio
+
 
 ------------> formulation of the the Optimization problems (Latex) will be added to the repo in future 
