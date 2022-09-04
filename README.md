@@ -17,4 +17,4 @@ Backtesting framework for solving several convex optimization problems. These pr
 -> bounding_port_risk.py max risk under constraints for the covariance matrix and create worst case portfolio
 
 
-------------> formulation of the the Optimization problems (Latex) will be added to the repo in future 
+----------> formulation of the the Optimization problems (Latex) will be added to the repo in future 
