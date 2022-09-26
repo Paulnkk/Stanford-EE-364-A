@@ -16,5 +16,7 @@ Backtesting framework for solving several convex optimization problems. These pr
 
 -> bounding_port_risk.py max risk under constraints for the covariance matrix and create worst case portfolio
 
+-> opt_trans_lin_opt.ipynb generate p-Wasserstein distance by solving optimal Transport as linear Optimization problem
+
 
 -----> formulation of the the Optimization problems (Latex) will be added to the repo in future 
