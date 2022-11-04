@@ -16,4 +16,7 @@ Backtesting framework for solving several convex optimization problems. These pr
 
 -> bounding_port_risk.py max risk under constraints for the covariance matrix and create worst case portfolio
 
+-> LDA_gauss linear classifier for datapoints extracted from normal-distributed data source using 5 clusters with center mu_i
+
+
 -----> formulation of the the Optimization problems (Latex) will be added to the repo in future 
