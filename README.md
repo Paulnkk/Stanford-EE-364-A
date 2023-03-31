@@ -1,6 +1,6 @@
 # CVXPY-backtesting-implementations
 
-Backtesting framework for solving several convex optimization problems. 
+Notebook with example from convex optimization. All problems are implemented and solved with cvxpy.
 
 -> energy_storage_trade_off.ipynb is solving the convex optimization problem of charging a Lithium-Ion-battery under capactiy constraints.
 
