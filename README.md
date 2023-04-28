@@ -19,4 +19,4 @@ Notebook with example from convex optimization. All problems are implemented and
 -> LDA_gauss linear classifier for datapoints extracted from normal-distributed data source using 5 clusters with center mu_i
 
 
------> formulation of the the Optimization problems (Latex) will be added to the repo in future 
+----> formulation of the the Optimization problems (Latex) will be added to the repo in future 
